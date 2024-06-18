@@ -16,3 +16,9 @@ So, I explored other options and wanted to try RAG using a vector database and k
 This repo is an implementation of a RAG-based vector store to leverage the best output from LLM (Google Gemini pro model) in this case...
 The objective was to learn and explore, I might have trained and fine-tuned these models to improve the performance at the same time I looked for easier and better options which led to implementing RAG using LLamaIndex. which I think is a good exposure. Thats it!! dive into and explore and post suggestions if you can give any....
 The updated version of the project can be found here: https://[github.com/Ilurusheshasai/multiple-LLM-chatbot](https://github.com/Ilurusheshasai/Chatbot-llamaIndex-gemini-RAG) <br>
+
+# How to test this?
+Just clone this repo, run the final_draft.py with other folders, and just respond to the prompts, you will be able to access all the services of this draft chatbot.
+
+# Key points to remember this is not the final polished chatbot instead it is the starting block. Need to finetune the models for better performance...
+# Any suggestions for me to improve chatbot performance are very well appreciated.  
