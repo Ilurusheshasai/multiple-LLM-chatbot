@@ -31,5 +31,10 @@ The objective was to learn and explore, I might have trained and fine-tuned thes
 Just clone this repo, run the final_draft.py with other folders, and just respond to the prompts, you will be able to access all the services of this draft chatbot.
 
 # Key points to remember this is not the final polished chatbot instead it is the starting block. Need to finetune the models for better performance...
+
+# Future work
+    - I will train the QA model with Question, answer, and context and compare performance with and without finetuning.
+    - try to use the Question and find context using an extractive summarize, pass them to T5 transformer and synthesise answer by passing Question, context to get answer. <br>
+    
 # Any suggestions for me to improve chatbot performance are very well appreciated. 
 The updated version of the project can be found here: https://[github.com/Ilurusheshasai/multiple-LLM-chatbot](https://github.com/Ilurusheshasai/Chatbot-llamaIndex-gemini-RAG) <br>
