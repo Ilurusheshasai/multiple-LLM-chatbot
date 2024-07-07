@@ -4,7 +4,7 @@ Trying to create my first Storytelling bot with Q/A, summarizing capabilities us
 # What does this repo showcase:
 This project is an initial draft of my course project in IS 707- Intelligent Technologies at UMBC. Where I was experimenting with how to use and train models by hugging face and trying to create some interesting applications. <br>
 
-The updated version of the project can be found here: https://[github.com/Ilurusheshasai/multiple-LLM-chatbot](https://github.com/Ilurusheshasai/Chatbot-llamaIndex-gemini-RAG) <be> Ihave used rag here.
+The updated version of the project can be found here: [https://github.com/Ilurusheshasai/Chatbot-llamaIndex-gemini-RAG](https://github.com/Ilurusheshasai/Chatbot-llamaIndex-gemini-RAG) <be> Ihave used rag here.
 
 # Why did I do this?
 I wanted to leverage the power of various LLMs and orchestrate them together to make them act like a good storyteller for kids as part of coursework. 
